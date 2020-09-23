@@ -1,2 +1,3 @@
 # pregapp
-Issues for the Pregnancy Application
+
+Pregapp application is month-by-month guide for pregnant women, specifically designed for First Nations in Canada.
